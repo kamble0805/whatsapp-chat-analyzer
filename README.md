@@ -50,7 +50,7 @@ pip install -r requirements.txt
 # 4. Run the Streamlit app
 streamlit run whatsapp_dashboard.py
 ```
-📜 License
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/kamble0805/whatsapp-chat-analyzer/blob/main/MIT
