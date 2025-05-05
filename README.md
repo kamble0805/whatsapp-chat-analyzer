@@ -26,6 +26,9 @@ This project is a **Streamlit-based web application** that allows you to analyze
 
 ---
 
+## 🌐 Live Demo
+- You can view the live deployed version of the app here:
+- [WhatsApp Chat Analyzer Dashboard](https://kamble0805-whatsapp-chat-analyzer-whatsapp-dashboard-gyltbq.streamlit.app/)
 ## ⚙️ Local Development Setup
 
 ### 📋 Prerequisites
