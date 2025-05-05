@@ -49,3 +49,7 @@ pip install -r requirements.txt
 
 # 4. Run the Streamlit app
 streamlit run whatsapp_dashboard.py
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
